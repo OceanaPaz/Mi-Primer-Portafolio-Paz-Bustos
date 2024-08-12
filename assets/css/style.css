@@ -168,3 +168,9 @@ footer {
     background-color: #000;
     color: #fff;
 }
+
+.mensaje{
+    border: 1px solid;
+    color: white;
+    background: #8dc58d;
+}
